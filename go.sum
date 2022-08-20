@@ -1,0 +1,6 @@
+github.com/burntcarrot/ricecake v0.1.0 h1:RrEvoMDjhADcpdHUQUQ23xl7n/VUlM5DTdiox26Na2k=
+github.com/burntcarrot/ricecake v0.1.0/go.mod h1:3qlvtsP1lsrYgqiplNnlUQoHEUVp0NEWZJKVNHBSds0=
+github.com/gen2brain/go-fitz v1.20.1 h1:i5GPe/58q/gbNqa2mO+ZcTymwowbJEsDOXp7D0JwxgU=
+github.com/gen2brain/go-fitz v1.20.1/go.mod h1:UZAxMETTDK4UPpuh80HaRpPzgkSibUihXVzwj2ip5oQ=
+github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
+github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=

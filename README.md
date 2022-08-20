@@ -24,6 +24,14 @@ On a [classic Mapbox example](https://github.com/mapbox/pixelmatch):
 | --- | --- | --- |
 | ![Old Map](examples/mapbox/mapbox1.png) | ![New Map](examples/mapbox/mapbox2.png) | ![Map Difference](examples/mapbox/diff.png) |
 
+## Installation
+
+Using `go install`:
+
+```sh
+go install github.com/burntcarrot/difftective@latest
+```
+
 ## Usage
 
 ```sh

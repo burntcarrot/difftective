@@ -67,5 +67,5 @@ Saved difference to diff.png
 
 ## License
 
-`ricecake` is released under the MIT license. See [LICENSE](./LICENSE).
+`difftective` is released under the MIT license. See [LICENSE](./LICENSE).
 
